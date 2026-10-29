@@ -1,2 +1,3 @@
 # 2026_labo_git_vscode
-LAborsatoire d'Apprentissage 
+Laboratoire d'apprentissage 
+— paliers branches, PR, fusion (repo jetable, contenu factice)
